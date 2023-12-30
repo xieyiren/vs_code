@@ -8,4 +8,5 @@ int main(int argc, char* argv[])
 	int i = 10;
 	int a = 100;
 	printf("%d", i + a);
+	printf("%d", "heihei");
 }
