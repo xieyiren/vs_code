@@ -87,6 +87,8 @@ void init(void)
  /**
  * 扫描获取 ET AET 表
  */
+
+
 void polygonScan()
 {
     //计算最高点的y坐标
