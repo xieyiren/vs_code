@@ -6,4 +6,6 @@ int main(int argc, char* argv[])
 	printf("%s\n",string);
 	printf("%s\n", "hello world");
 	int i = 10;
+	int a = 100;
+	printf("%d", i + a);
 }
